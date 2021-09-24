@@ -4,8 +4,8 @@
 
 Presented by: Amelia Wietting
 
-<object data="https://github.com/AmeliaDollars/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf" width="700px" height="700px">
-    <embed src="https://github.com/AmeliaDollars/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">
-        <p><a href="https://github.com/AmeliaDollars/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">Click here to download the presentation PDF</a>.</p>
+<object data="https://github.com/JohnDeere/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf" width="700px" height="700px">
+    <embed src="https://github.com/JohnDeere/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">
+        <p><a href="https://github.com/JohnDeere/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">Click here to download the presentation PDF</a>.</p>
     </embed>
 </object>
