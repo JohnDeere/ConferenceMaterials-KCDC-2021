@@ -1,7 +1,11 @@
 # KCDC-2021
 
-<object data="20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">Download PDF</a>.</p>
+## Hackers are Red, Pentests are Blue, I've got some tools, How About You?
+
+Presented by: Amelia Wietting
+
+<object data="https://github.com/AmeliaDollars/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf" width="700px" height="700px">
+    <embed src="https://github.com/AmeliaDollars/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">
+        <p><a href="https://github.com/AmeliaDollars/ConferenceMaterials-KCDC-2021/raw/main/20210917_KCDC21_Hackers_Are_Red_Pentests_Are_Blue.pdf">Click here to download the presentation PDF</a>.</p>
     </embed>
 </object>
